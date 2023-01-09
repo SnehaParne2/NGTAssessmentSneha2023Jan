@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T12:32:51Z" name="Default suite" finished-at="2023-01-09T12:33:52Z" duration-ms="61393">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T12:32:51Z" name="Default test" finished-at="2023-01-09T12:33:52Z" duration-ms="61393">
+      <class name="com.app.tests.AppTests">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.app.tests.AppTests@5ddcc487]" started-at="2023-01-09T18:02:51Z" name="launchBrowser" finished-at="2023-01-09T18:03:01Z" duration-ms="9579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Scenario4()[pri:0, instance:com.app.tests.AppTests@5ddcc487]" started-at="2023-01-09T18:03:01Z" name="Scenario4" finished-at="2023-01-09T18:03:52Z" duration-ms="51794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario4 -->
+      </class> <!-- com.app.tests.AppTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
